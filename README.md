@@ -46,7 +46,7 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pistorio3&layout=compact&theme=chartreuse&hide_border=true" />
     </td>
     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pistoriojoao" alt="Wakatime stats">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pistoriojoao&v=2" alt="Wakatime stats">
     </td>
   </tr>
 </table>
