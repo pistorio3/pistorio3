@@ -57,4 +57,4 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pistorio3" alt="johnatas-henrique" /> </p>
 
-⭐️ Inspirado em: [Johnatas Henrique](https://github.com/johnatas-henrique) e [Maitê Marques](https://github.com/maite-marques)
+⭐️ Inspirado em: [Johnatas Henrique](https://github.com/johnatas-henrique), [Maitê Marques](https://github.com/maite-marques), [Rafa Ballerini](https://github.com/rafaballerini)
