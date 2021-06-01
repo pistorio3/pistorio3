@@ -53,6 +53,8 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
 
 </br>
 
+![Snake animation](https://github.com/pistorio3/pistorio3/blob/output/github-contribution-grid-snake.svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pistorio3" alt="johnatas-henrique" /> </p>
 
 ⭐️ Inspirado em: [Johnatas Henrique](https://github.com/johnatas-henrique) e [Maitê Marques](https://github.com/maite-marques)
