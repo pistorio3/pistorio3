@@ -26,6 +26,9 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
   <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://testing-library.com/img/octopus-128x128.png" alt="react testing library" width="40" height="40"/> 
+  <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> 
+  <img src="https://dataplatformlabs.com/wp-content/uploads/2017/07/azure-sql-cover-e1457998199378.png" alt="sql" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/480/mongodb.png" alt="mongo" width="40" height="40"/> 
 </p>
 
 </br>
