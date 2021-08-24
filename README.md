@@ -7,7 +7,7 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
 **Meus interesses pessoais e estudos no momento:**
 
 - 👨🏽‍💻 Estou estudando back-end com **NodeJS** que é um interpretador **Javascript**;
-- 🌱 Estou aprendendo como consumir **APIs** nos meus projetos de **front-end**; 
+- 🌱 Estou aprendendo como trabalhar com **Banco de Dados** nos meus projetos de **back-end**; 
 - 🔭 Diariamente busco conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Me adicione no <a href="https://www.linkedin.com/in/joaopistorio/" target="_blank">Linkedin</a>, pergunte algo, ficarei muito feliz em ajudar;
 - 📫 Entre em contato, mande um email para joao.pistorio@gmail.com;
