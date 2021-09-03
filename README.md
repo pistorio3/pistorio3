@@ -11,8 +11,8 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
 - 🔭 Diariamente busco conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Me adicione no <a href="https://www.linkedin.com/in/joaopistorio/" target="_blank">Linkedin</a>, pergunte algo, ficarei muito feliz em ajudar;
 - 📫 Entre em contato, mande um email para joao.pistorio@gmail.com;
-- :nerd_face: Meus hobbies são: jogos de estratégia, sinuca, baralho, assistir séries e filmes e brincar com meu dog;
-- :dog: Tenho um dog muito bagunceiro chamado Loki
+- :nerd_face: Meus hobbies são: jogos de estratégia, sinuca, baralho, séries e filmes;
+- :dog: Tenho um dog muito bagunceiro chamado Loki;
 
 </br>
 
