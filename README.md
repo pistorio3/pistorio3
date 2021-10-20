@@ -41,7 +41,7 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40" />
 </p>
 
-**Linguagens e ferramentas (nome)**
+**Linguagens e ferramentas (nome):**
   
 <p align="left"> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
