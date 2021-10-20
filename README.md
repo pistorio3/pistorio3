@@ -31,8 +31,11 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
   <img src="https://dataplatformlabs.com/wp-content/uploads/2017/07/azure-sql-cover-e1457998199378.png" alt="sql" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/480/mongodb.png" alt="mongo" width="40" height="40"/> 
   <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   <img src="https://docs.getxray.app/download/thumbnails/31621455/rest_api2.png?version=2&modificationDate=1600507699924&api=v2" alt="rest" width="40" height="40"/> 
-   <img src="https://coursework.vschool.io/content/images/2016/06/jwt.png" alt="nodejs" width="40" height="40"/> 
+   <img src="https://coursework.vschool.io/content/images/2016/06/jwt.png" alt="jwt" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40"/> 
+  
 </p>
 
 </br>
