@@ -38,7 +38,28 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
    <img src="https://coursework.vschool.io/content/images/2016/06/jwt.png" alt="jwt" width="40" height="40"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40"/> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40" />
+</p>
+
+**Linguagens e ferramentas:**
   
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
+  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 </p>
 
 </br>
@@ -53,13 +74,14 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
     </td>
   </tr>
 </table>
+
 <table>
   <tr>
     <td width="50%" align="center" vertical-align="middle">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pistorio3&layout=compact&theme=chartreuse&hide_border=true" />
     </td>
     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pistoriojoao&v=2" alt="Wakatime stats">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pistoriojoao&layout=compact&v=2" alt="Wakatime stats">
     </td>
   </tr>
 </table>
