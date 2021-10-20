@@ -1,6 +1,7 @@
-### Olá Visitante 👋
+## Olá Visitante 👋
+## Meu nome é João Victor Pistório
 
-Meu nome é **João Victor Pistório** tenho 21 anos, sou de Campo Grande - MS, Brasil, estou estudando na **Trybe** para ser um **Desenvolvedor Full-Stack Júnior** :green_heart:🚀
+Tenho 21 anos, sou de Campo Grande - MS, Brasil, estou estudando na **Trybe** para ser um **Desenvolvedor Full-Stack Júnior** :green_heart:🚀
 
 Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletrônica e do movimento IoT (Internet of Things).
 
@@ -40,10 +41,11 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40" />
 </p>
 
-**Linguagens e ferramentas:**
+**Linguagens e ferramentas (nome)**
   
 <p align="left"> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
   <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
@@ -59,7 +61,19 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white">
+  <img src="https://img.shields.io/badge/stylelint-000?style=flat&logo=stylelint&logoColor=white">
   <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white">
+  
+  
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black">
+  
+   
+  
+ 
 </p>
 
 </br>
