@@ -1,14 +1,14 @@
 ## Olá Visitante 👋
 ## Meu nome é João Victor Pistório
 
-Tenho 21 anos, sou de Campo Grande - MS, Brasil, estou estudando na **Trybe** para ser um **Desenvolvedor Full-Stack Júnior** :green_heart:🚀
+Tenho 22 anos, sou de Campo Grande - MS, Brasil, atualmente **Desenvolvedor Web Full-Stack Júnior** :green_heart:🚀
 
 Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletrônica e do movimento IoT (Internet of Things).
 
 **Meus interesses pessoais e estudos no momento:**
 
-- 👨🏽‍💻 Estou estudando CS (Computer Science) com **Python** que é uma linguagem de programação de alto nível;
-- 🌱 Estou aprendendo como trabalhar com **POO** nos meus projetos de **CS (Computer Science)**; 
+- 👨🏽‍💻 Estou estudando a implementação de **Angular + Spring Boot**;
+- 🌱 Estou aprendendo na prática como trabalhar no odelo **ágil**; 
 - 🔭 Diariamente busco conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Me adicione no <a href="https://www.linkedin.com/in/joaopistorio/" target="_blank">Linkedin</a>, pergunte algo, ficarei muito feliz em ajudar;
 - 📫 Entre em contato, mande um email para joao.pistorio@gmail.com;
