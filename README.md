@@ -61,8 +61,6 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white">
-  <img src="https://img.shields.io/badge/stylelint-000?style=flat&logo=stylelint&logoColor=white">
   <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white">
