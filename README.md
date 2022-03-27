@@ -8,7 +8,7 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
 **Meus interesses pessoais e estudos no momento:**
 
 - 👨🏽‍💻 Estou estudando a implementação de **Angular + Spring Boot**;
-- 🌱 Estou aprendendo na prática como trabalhar no odelo **ágil**; 
+- 🌱 Estou aprendendo na prática como trabalhar no modelo **ágil**; 
 - 🔭 Diariamente busco conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Me adicione no <a href="https://www.linkedin.com/in/joaopistorio/" target="_blank">Linkedin</a>, pergunte algo, ficarei muito feliz em ajudar;
 - 📫 Entre em contato, mande um email para joao.pistorio@gmail.com;
