@@ -69,9 +69,6 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black">
   
-   
-  
- 
 </p>
 
 </br>
@@ -93,12 +90,14 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pistorio3&layout=compact&theme=chartreuse&hide_border=true" />
     </td>
     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pistoriojoao&layout=compact&v=2" alt="Wakatime stats">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pistoriojoao&layout=compact&v=3" alt="Wakatime stats">
     </td>
   </tr>
 </table>
 
 </br>
+
+
 
 ![Snake animation](https://github.com/pistorio3/pistorio3/blob/output/github-contribution-grid-snake.svg)
 
