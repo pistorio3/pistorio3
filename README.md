@@ -87,10 +87,10 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
 <table>
   <tr>
     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pistorio3&layout=compact&theme=chartreuse&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pistoriojoao&layout=compact&v=3" alt="Wakatime stats">  
     </td>
     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pistoriojoao&layout=compact&v=3" alt="Wakatime stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pistorio3&layout=compact&theme=chartreuse&hide_border=true"/>
     </td>
   </tr>
 </table>
