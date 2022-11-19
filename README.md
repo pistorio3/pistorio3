@@ -15,7 +15,7 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
 - :nerd_face: Meus hobbies são: Criar bugigangas usando eletrônica e IoT, jogos de estratégia, séries e filmes;
 - :dog: Pai de dois dogs muito bagunceiros: Loki e Ares;
 
-:arrow_down: Abaixo você encontra: linguagens, frameworks, ferramentas, design tools e SOs que eu já trabalhei ou tive contato na minha carreira :arrow_down:
+:arrow_down: Abaixo você encontra: linguagens, frameworks, ferramentas, design tools e SOs que eu já trabalhei ou tive contato :arrow_down:
 
 **Linguagens:**
   
