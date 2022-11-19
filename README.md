@@ -14,7 +14,7 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
 - 📫 Entre em contato, mande um email para joao.pistorio@gmail.com;
 - :nerd_face: Meus hobbies são: Criar bugigangas usando eletrônica e IoT, jogos de estratégia, séries e filmes;
 - :dog: Tutor de dois dogs muito bagunceiros: Loki e Ares;
-- :iphone: Minhas redes sociais: <a href="https://www.instagram.com/pistoriojoao/" target="_blank">Instagram</a>, <a href="https://twitter.com/pistoriojoao" target="_blank">Twitter</a>;
+- :iphone: Minhas redes sociais: [Instagram](https://www.instagram.com/pistoriojoao/), [Twitter](https://twitter.com/pistoriojoao);
 
 :arrow_down: Abaixo você encontra: linguagens, frameworks, ferramentas, design tools e SOs que eu já trabalhei ou tive contato :arrow_down:
 
