@@ -34,6 +34,7 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white">
 </p>
 
@@ -57,6 +58,7 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white">
   <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=flat&logo=powershell&logoColor=white">
   <img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iterm2&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
@@ -68,12 +70,13 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white">
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E">
   <img src="https://img.shields.io/badge/stylelint-000?style=flat&logo=stylelint&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Prezi-3181FF?style=flat&logo=prezi&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white">
 </p>
