@@ -1,7 +1,7 @@
 ## Olá Visitante 👋
 ## Meu nome é João Victor Pistório
 
-Tenho 22 anos, sou de Campo Grande - MS, Brasil, atualmente **Desenvolvedor Web** :green_heart:🚀
+Tenho 22 anos, sou de Campo Grande - MS, Brasil, atualmente **Desenvolvedor Web** :green_heart:🚀 
 
 Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletrônica e do movimento IoT (Internet of Things).
 
@@ -13,7 +13,8 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
 - 💬 Me adicione no <a href="https://www.linkedin.com/in/joaopistorio/" target="_blank">Linkedin</a>, pergunte algo, ficarei muito feliz em ajudar;
 - 📫 Entre em contato, mande um email para joao.pistorio@gmail.com;
 - :nerd_face: Meus hobbies são: Criar bugigangas usando eletrônica e IoT, jogos de estratégia, séries e filmes;
-- :dog: Pai de dois dogs muito bagunceiros: Loki e Ares;
+- :dog: Tutor de dois dogs muito bagunceiros: Loki e Ares;
+- (Tem uma surpresinha para quem ler até o final :wink:)
 
 :arrow_down: Abaixo você encontra: linguagens, frameworks, ferramentas, design tools e SOs que eu já trabalhei ou tive contato :arrow_down:
 
