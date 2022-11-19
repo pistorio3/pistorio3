@@ -10,11 +10,11 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
 - 👨🏽‍💻 Estou estudando a implementação de **Native Cloud Applications**;
 - 🌱 Estou aprendendo na prática como trabalhar no modelo **ágil**; 
 - 🔭 Diariamente busco conhecimento para evoluir na minha carreira de desenvolvedor;
-- 💬 Me adicione no <a href="https://www.linkedin.com/in/joaopistorio/" target="_blank">Linkedin</a>, pergunte algo, ficarei muito feliz em ajudar;
+- 💬 Me adicione no <a href="https://www.linkedin.com/in/joaopistorio/" target="_blank">Linkedin</a>, ficarei muito feliz em ter você na minha rede;
 - 📫 Entre em contato, mande um email para joao.pistorio@gmail.com;
 - :nerd_face: Meus hobbies são: Criar bugigangas usando eletrônica e IoT, jogos de estratégia, séries e filmes;
 - :dog: Tutor de dois dogs muito bagunceiros: Loki e Ares;
-- (Tem uma surpresinha para quem ler até o final :wink:)
+- :iphone: Minhas redes sociais: <a href="https://www.instagram.com/pistoriojoao/" target="_blank">Instagram</a>, <a href="https://twitter.com/pistoriojoao" target="_blank">Twitter</a>;
 
 :arrow_down: Abaixo você encontra: linguagens, frameworks, ferramentas, design tools e SOs que eu já trabalhei ou tive contato :arrow_down:
 
