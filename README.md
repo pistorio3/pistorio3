@@ -8,7 +8,7 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
 **Meus interesses pessoais e estudos no momento:**
 
 - 👨🏽‍💻 Estou estudando a implementação de **Native Cloud Applications**;
-- 🌱 Estou aprendendo na prática como trabalhar no modelo **ágil**; 
+- 🌱 Cada dia aprendendo na prática como é trabalhar no modelo **ágil**; 
 - 🔭 Diariamente busco conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Me adicione no <a href="https://www.linkedin.com/in/joaopistorio/" target="_blank">Linkedin</a>, ficarei muito feliz em ter você na minha rede;
 - 📫 Entre em contato, mande um email para joao.pistorio@gmail.com;
