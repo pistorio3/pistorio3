@@ -95,17 +95,6 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
 <table>
   <tr>
     <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=pistorio3&theme=chartreuse&show_icons=true&hide_border=true" />
-    </td>
-    <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pistorio3&theme=chartreuse&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="50%" align="center" vertical-align="middle">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pistoriojoao&layout=compact&v=3" alt="Wakatime stats">  
     </td>
     <td width="50%" align="center" vertical-align="middle">
@@ -114,11 +103,20 @@ Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletr
   </tr>
 </table>
 
-</br>
-
-
-
 ![Snake animation](https://github.com/pistorio3/pistorio3/blob/output/github-contribution-grid-snake.svg)
+
+<table>
+  <tr>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=pistorio3&theme=chartreuse&show_icons=true&hide_border=true" />
+    </td>
+    <td width="50%" align="center" vertical-align="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pistorio3&theme=chartreuse&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+</br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pistorio3" alt="johnatas-henrique" /> </p>
 
