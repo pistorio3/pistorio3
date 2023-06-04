@@ -1,5 +1,5 @@
 ## Olá Visitante 👋
-## Meu nome é João Victor Pistório
+## Meu nome é João Victor Pistorio
 
 Tenho 23 anos, sou de Campo Grande - MS, Brasil, atualmente **Desenvolvedor Web** :green_heart:🚀 
 
