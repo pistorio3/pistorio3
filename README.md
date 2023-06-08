@@ -5,7 +5,7 @@ I'm 23 years old, I'm from Campo Grande - MS, Brazil, currently **Web Developer*
 
 I'm passionate about Technology, Software Development and Enthusiast of Electronics and the IoT (Internet of Things) movement.
 
-**My personal interests and studies at the moment::**
+**My personal interests and studies at the moment:**
 
 - 👨🏽‍💻 I'm studying the implementation of **Native Cloud Applications**;
 - 🌱 Every day I learn in practice what it's like to work in the **agile** model; 
