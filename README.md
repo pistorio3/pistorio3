@@ -9,7 +9,7 @@ I'm passionate about Technology, Software Development and Enthusiast of Electron
 
 - 👨🏽‍💻 I'm studying the implementation of **Native Cloud Applications**;
 - 🌱 Every day I learn in practice what it's like to work in the **agile** model; 
-- 🔭 Diariamente busco conhecimento para evoluir na minha carreira de desenvolvedor;
+- 🔭 Daily I seek knowledge to evolve in my career as a developer;
 - 💬 Add me on <a href="https://www.linkedin.com/in/joaopistorio/" target="_blank">Linkedin</a>, I will be very happy to have you in my network;
 - :nerd_face: My hobbies are: Creating things using electronics and IoT, strategy games, series and movies;
 - :dog: Tutor of two messy dogs: Loki e Ares;
