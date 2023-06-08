@@ -1,7 +1,7 @@
-## Olá Visitante 👋
-## Meu nome é João Victor Pistorio
+## Hello Visitor 👋
+## My name is Joao Victor Pistorio
 
-Tenho 23 anos, sou de Campo Grande - MS, Brasil, atualmente **Desenvolvedor Web** :green_heart:🚀 
+I'm 23 years old, I'm from Campo Grande - MS, Brazil, currently **Web Developer** with 2 years of experience :green_heart:🚀 
 
 Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletrônica e do movimento IoT (Internet of Things).
 
