@@ -3,12 +3,12 @@
 
 I'm 23 years old, I'm from Campo Grande - MS, Brazil, currently **Web Developer** with 2 years of experience :green_heart:🚀 
 
-Sou apaixonado por Tecnologia, Desenvolvimento de Software e Entusiasta da Eletrônica e do movimento IoT (Internet of Things).
+I'm passionate about Technology, Software Development and Enthusiast of Electronics and the IoT (Internet of Things) movement.
 
-**Meus interesses pessoais e estudos no momento:**
+**My personal interests and studies at the moment::**
 
-- 👨🏽‍💻 Estou estudando a implementação de **Native Cloud Applications**;
-- 🌱 Cada dia aprendendo na prática como é trabalhar no modelo **ágil**; 
+- 👨🏽‍💻 I'm studying the implementation of **Native Cloud Applications**;
+- 🌱 Every day I learn in practice what it's like to work in the **agile** model; 
 - 🔭 Diariamente busco conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Me adicione no <a href="https://www.linkedin.com/in/joaopistorio/" target="_blank">Linkedin</a>, ficarei muito feliz em ter você na minha rede;
 - 📫 Entre em contato, mande um email para joao.pistorio@gmail.com;
