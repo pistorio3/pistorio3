@@ -1,5 +1,5 @@
 ## Hello Visitor 👋
-## My name is Joao Victor Pistorio
+## My name is João Victor Pistorio
 
 I'm 23 years old, I'm from Campo Grande - MS, Brazil, currently **Web Developer** with 2 years of experience :green_heart:🚀 
 
@@ -10,15 +10,14 @@ I'm passionate about Technology, Software Development and Enthusiast of Electron
 - 👨🏽‍💻 I'm studying the implementation of **Native Cloud Applications**;
 - 🌱 Every day I learn in practice what it's like to work in the **agile** model; 
 - 🔭 Diariamente busco conhecimento para evoluir na minha carreira de desenvolvedor;
-- 💬 Me adicione no <a href="https://www.linkedin.com/in/joaopistorio/" target="_blank">Linkedin</a>, ficarei muito feliz em ter você na minha rede;
-- 📫 Entre em contato, mande um email para joao.pistorio@gmail.com;
-- :nerd_face: Meus hobbies são: Criar bugigangas usando eletrônica e IoT, jogos de estratégia, séries e filmes;
-- :dog: Tutor de dois dogs muito bagunceiros: Loki e Ares;
-- :iphone: [Meus Links](https://linktr.ee/pistorio)
+- 💬 Add me on <a href="https://www.linkedin.com/in/joaopistorio/" target="_blank">Linkedin</a>, I will be very happy to have you in my network;
+- :nerd_face: My hobbies are: Creating things using electronics and IoT, strategy games, series and movies;
+- :dog: Tutor of two messy dogs: Loki e Ares;
+- :iphone: [My Links](https://linktr.ee/pistorio)
 
-:arrow_down: Abaixo você encontra: linguagens, frameworks, ferramentas, design tools e SOs que eu já trabalhei ou tive contato :arrow_down:
+:arrow_down: Below you will find: languages, frameworks, tools, design tools and OSs that I have worked with or had contact with :arrow_down:
 
-**Linguagens:**
+**Languages:**
   
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -45,7 +44,7 @@ I'm passionate about Technology, Software Development and Enthusiast of Electron
   <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 </p>
   
-**Ferramentas:**
+**Tools:**
 
 <p align="left">
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
@@ -84,7 +83,7 @@ I'm passionate about Technology, Software Development and Enthusiast of Electron
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white">
 </p>
 
-**SO:**
+**OSs:**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
