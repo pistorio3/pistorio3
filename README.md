@@ -12,7 +12,7 @@ I'm passionate about Technology, Software Development and Enthusiast of Electron
 - 🔭 Daily I seek knowledge to evolve in my career as a developer;
 - 💬 Add me on <a href="https://www.linkedin.com/in/joaopistorio/" target="_blank">Linkedin</a>, I will be very happy to have you in my network;
 - :nerd_face: My hobbies are: Creating things using electronics and IoT, strategy games, series and movies;
-- :dog: Tutor of two messy dogs: Loki e Ares;
+- :dog: Tutor of two messy dogs: Loki and Ares;
 - :iphone: [My Links](https://linktr.ee/pistorio)
 
 :arrow_down: Below you will find: languages, frameworks, tools, design tools and OSs that I have worked with or had contact with :arrow_down:
