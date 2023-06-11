@@ -56,8 +56,11 @@ I'm passionate about Technology, Software Development and Enthusiast of Electron
   <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=flat&logo=powershell&logoColor=white">
   <img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iterm2&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white">
+  
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
+   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white">
