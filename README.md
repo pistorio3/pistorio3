@@ -105,8 +105,6 @@ I'm passionate about Technology, Software Development and Enthusiast of Electron
   </tr>
 </table>
 
-![Snake animation](https://github.com/pistorio3/pistorio3/blob/output/github-contribution-grid-snake.svg)
-
 <table>
   <tr>
     <td width="50%" align="center" vertical-align="middle">
