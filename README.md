@@ -97,17 +97,6 @@ I'm passionate about Technology, Software Development and Enthusiast of Electron
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=pistorio3&theme=chartreuse&show_icons=true&hide_border=true" />
-    </td>
-    <td width="50%" align="center" vertical-align="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pistorio3&theme=chartreuse&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
 </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pistorio3" alt="johnatas-henrique" /> </p>
