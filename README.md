@@ -78,14 +78,6 @@ I'm passionate about Technology, Software Development and Enthusiast of Electron
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white">
 </p>
 
-**Design e media:**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white">
-</p>
-
 **OSs:**
 
 <p align="left">
